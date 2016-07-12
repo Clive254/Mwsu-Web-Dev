@@ -1,4 +1,4 @@
-# Mwsu-Web-Dev
+# Mwsu-Web-Dev-Matiku
 Web Dev-Internet Prog
 Name: Clive Matiku
-Instructor: RugbyProf
+Email:matikuclive@gmail.com
